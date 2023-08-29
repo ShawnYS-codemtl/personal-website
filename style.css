@@ -1,0 +1,48 @@
+html{
+    font-size: 14pt;
+}
+#title {
+    background-color: #07D5F5;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 7rem;
+}
+
+#title p {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 3rem;
+}
+
+#profile-pic {
+    width: 200px;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+
+#background .container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#background p {
+    padding: 0;
+    margin: 0;
+}
+
+#planguages{
+    background-color: #1BE0C2;
+}
+
+
+
